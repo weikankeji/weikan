@@ -504,7 +504,7 @@ div.logo
 a {
 	display: block;
 	text-indent: -9999px;
-	background: url('/img/img-small.png') no-repeat;
+	background: url('/img/im-small.png') no-repeat;
 	width: 140px;
 	height: 40px
 }
@@ -529,7 +529,7 @@ a {
 	height: 20px;
 	text-align: left;
 	text-indent: -9999px;
-	background: url('/img/img-small.png') no-repeat
+	background: url('/img/im-small.png') no-repeat
 }
 
 ul.nav li a.link-projects {
@@ -557,7 +557,7 @@ ul.nav li a:hover {
 }
 
 h2.subtitle {
-	background: url('/img/img-small.png') no-repeat;
+	background: url('/img/im-small.png') no-repeat;
 	text-indent: -9999px;
 	width: 220px;
 	height: 25px
@@ -798,7 +798,7 @@ ul.newsList {
 ul.newsList
 li {
 	font-size: 13px;
-	background: url('/img/img-small.png') no-repeat;
+	background: url('/img/im-small.png') no-repeat;
 	background-position: 0 -384px
 }
 
