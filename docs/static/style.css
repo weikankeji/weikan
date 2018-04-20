@@ -1303,18 +1303,18 @@ only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (min-device-pixel-ratio: 2) {
 	div.logo
 a {
-		background-image: url('/img/img-big.png');
+		background-image: url('/img/im-big.png');
 		background-size: 250px 400px
 	}
 
 	ul.nav li
 a {
-		background-image: url('/img/img-big.png');
+		background-image: url('/img/im-big.png');
 		background-size: 250px 400px
 	}
 
 	h2.subtitle {
-		background-image: url('/img/img-big.png');
+		background-image: url('/img/im-big.png');
 		background-size: 250px 400px
 	}
 
@@ -1336,7 +1336,7 @@ div.image {
 
 	ul.newsList
 li {
-		background-image: url('/img/img-big.png');
+		background-image: url('/img/im-big.png');
 		background-size: 250px 400px
 	}
 
